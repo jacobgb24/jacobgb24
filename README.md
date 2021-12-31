@@ -1,4 +1,4 @@
-![Jacob's GitHub Banner](./banner.png)
+<img src="./banner.png" width="2560" height="1080">
 
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 
