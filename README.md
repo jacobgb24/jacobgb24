@@ -1,5 +1,5 @@
 <img src="./banner.png"/>
-<h1 align="center">👋 Hi, I'm Jacob</h1>
+<h1 align="center">👋 Hi, I'm Jacob ‍‍‍‍‍ㅤ</h1>
 <h3 align="center">Here's a bit about me</h3>
 
 ### 👨‍🎓 Education
