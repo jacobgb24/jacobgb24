@@ -23,7 +23,8 @@
 * Security
 * UI/UX
 * Android
-* Software Engineering Principles
+* Software Engineering Practices
+* All things space 🚀🛰️
 
 ---
 
