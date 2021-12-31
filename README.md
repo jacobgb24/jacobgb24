@@ -1,5 +1,3 @@
-## ! WIP
-
 ![Jacob's GitHub Banner](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Jacob</h1>
