@@ -20,10 +20,11 @@
 
 ### ⚡ Interests
 * Networks
-* Security
+* Cybersecurity
+* Software Engineering
 * UI/UX
 * Android
-* Software Engineering Practices
+* Cloud
 * All things space 🚀🛰️
 
 ---
@@ -35,6 +36,7 @@
   <a href="https://github.com/jacobgb24">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobgb24&show_icons=true&locale=en&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0,0F0036,3C007E&hide_border=true&a" alt="Top Languages" />
   </a>
+  <p align="center">(My actual most used languages are Java and Python.)</p>
 </p>
 
 <img  align="right" src="https://komarev.com/ghpvc/?username=jacobgb24&color=3C007E"/>
